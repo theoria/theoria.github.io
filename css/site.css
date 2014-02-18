@@ -1,0 +1,51 @@
+#wrapper {
+    height: auto !important;
+    margin: 0 auto -60px;
+    min-height: 100%;
+}
+
+#push, #footer {
+    height: 60px;
+}
+
+#footer {
+    background-color: #BEBEBE;
+}
+
+.container .copyright {
+    margin: 20px 0px;
+}
+
+html, body {
+    height: 100%;
+}
+
+.navbar-container {
+    padding: 10px 0px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-inverse {
+    background-image: linear-gradient(linear-gradient(to bottom, #3C3C3C 100%, #222222 0%));
+}
+
+.navbar-brand {
+    font-family: 'Gabriela', serif;
+    font-size: 20px;
+}
+
+.carousel {
+    height: 340px;
+    margin-bottom: 10px;
+}
+
+.carousel, .item {
+    background-color: #777777;
+}
+
+.carousel-inner > .item > img {
+    height: 300px;
+}
