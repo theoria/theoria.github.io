@@ -49,3 +49,12 @@ html, body {
 .carousel-inner > .item > img {
     height: 300px;
 }
+
+#contact + .row p {
+    line-height: 60%;
+}
+
+#contact + .row p:last-child {
+    line-height: 150%;
+    margin-bottom: 0px;
+}
