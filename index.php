@@ -30,7 +30,7 @@
                                 <a href="#"><span class="glyphicon glyphicon-home"></span>&nbsp; Home</a>
                             </li>
                             <li>
-                                <a href="portfolio.html"><span class="glyphicon glyphicon-hdd"></span>&nbsp; Portfolio</a>
+                                <a href="portfolio.php"><span class="glyphicon glyphicon-hdd"></span>&nbsp; Portfolio</a>
                             </li>
                             <li>
                                 <a href="#contact"><span class="glyphicon glyphicon-earphone"></span>&nbsp; Contact</a>
