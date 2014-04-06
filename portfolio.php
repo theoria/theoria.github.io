@@ -28,13 +28,13 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
                             <li>
-                                <a href="index.html"><span class="glyphicon glyphicon-home"></span>&nbsp; Home</a>
+                                <a href="index.php"><span class="glyphicon glyphicon-home"></span>&nbsp; Home</a>
                             </li>
                             <li class="active">
                                 <a href="#"><span class="glyphicon glyphicon-hdd"></span>&nbsp; Portfolio</a>
                             </li>
                             <li>
-                                <a href="index.html#contact"><span class="glyphicon glyphicon-earphone"></span>&nbsp; Contact</a>
+                                <a href="index.php#contact"><span class="glyphicon glyphicon-earphone"></span>&nbsp; Contact</a>
                             </li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
