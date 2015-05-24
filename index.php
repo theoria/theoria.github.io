@@ -162,10 +162,13 @@
                     <!--<img alt="" data-src="" class="img-circle" style="width: 140px; height: 140px;" src="">-->
                     <h2>Vasai</h2>
                     <div class="well">
-                        <p>Unit No 38</p><p>Dewan & Shah Industrial. Estate No. 1</p><p>Navghar, Vasai (E)</p>
+                        <p>24, Gauri Commercial Complex,</p>
+                        <p>Navghar Road, Vasai (E)</p>
+                        <p>Thane – 401210</p>
+                        <p>Maharasthra.</p>
                         <hr />
                         <p>Contact:</p>
-                        <p>+91-808-735-0341</p>
+                        <p>0250-2390131, +91-7875071549, +91-8087350341</p>
                     </div>
                 </div><!-- /.col-lg-4 -->
             </div> <!-- /.row -->
